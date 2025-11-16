@@ -1,0 +1,23 @@
+[
+  {
+    "id": "emp01",
+    "name": "Lisa Müller",
+    "skills": ["Python", "Django"],
+    "seniority": "senior",
+    "availability": 1.0
+  },
+  {
+    "id": "emp02",
+    "name": "Tom Weber",
+    "skills": ["Python", "Data Science"],
+    "seniority": "intermediate",
+    "availability": 1.0
+  },
+  {
+    "id": "emp03",
+    "name": "Sarah Klein",
+    "skills": ["JavaScript", "React"],
+    "seniority": "junior",
+    "availability": 0.5
+  }
+]

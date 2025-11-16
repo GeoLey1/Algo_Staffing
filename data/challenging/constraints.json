@@ -1,0 +1,49 @@
+[
+  {
+    "employee_id": "emp02",
+    "project_id": "proj02",
+    "type": "preferred",
+    "weight": 3.0,
+    "comment": "Jan ist der einzige Legacy-Experte"
+  },
+  {
+    "employee_id": "emp01",
+    "project_id": "proj01",
+    "type": "preferred",
+    "weight": 2.5,
+    "comment": "Maria ist Senior Data Scientist"
+  },
+  {
+    "employee_id": "emp04",
+    "project_id": "proj01",
+    "type": "excluded",
+    "comment": "Ahmed ist zu junior für dieses kritische Projekt"
+  },
+  {
+    "employee_id": "emp07",
+    "project_id": "proj05",
+    "type": "preferred",
+    "weight": 3.0,
+    "comment": "Yuki ist der einzige mit Rust-Erfahrung"
+  },
+  {
+    "employee_id": "emp08",
+    "project_id": "proj06",
+    "type": "preferred",
+    "weight": 2.5,
+    "comment": "Sophie ist Product Lead"
+  },
+  {
+    "employee_id": "emp06",
+    "project_id": "proj08",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Carlos hat starke UI/UX Skills"
+  },
+  {
+    "employee_id": "emp03",
+    "project_id": "proj08",
+    "type": "excluded",
+    "comment": "Lisa arbeitet bereits an proj03 und kann nicht noch ein Projekt übernehmen"
+  }
+]

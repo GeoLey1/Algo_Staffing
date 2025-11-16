@@ -1,0 +1,105 @@
+[
+  {
+    "employee_id": "emp001",
+    "project_id": "proj001",
+    "type": "preferred",
+    "weight": 2.5,
+    "comment": "Dr. Schmidt ist KI-Expertin und perfekt für dieses Projekt"
+  },
+  {
+    "employee_id": "emp002",
+    "project_id": "proj002",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Michael hat die Cloud-Migration beim letzten Projekt geleitet"
+  },
+  {
+    "employee_id": "emp003",
+    "project_id": "proj003",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Sarah ist unsere Lead Frontend-Entwicklerin"
+  },
+  {
+    "employee_id": "emp006",
+    "project_id": "proj006",
+    "type": "preferred",
+    "weight": 2.5,
+    "comment": "Kevin ist unser DevOps-Lead"
+  },
+  {
+    "employee_id": "emp018",
+    "project_id": "proj009",
+    "type": "preferred",
+    "weight": 3.0,
+    "comment": "Paul ist unser Security-Spezialist"
+  },
+  {
+    "employee_id": "emp019",
+    "project_id": "proj005",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Marie hat Erfahrung mit Data Engineering"
+  },
+  {
+    "employee_id": "emp020",
+    "project_id": "proj013",
+    "type": "preferred",
+    "weight": 2.5,
+    "comment": "Tim ist unser Blockchain-Experte"
+  },
+  {
+    "employee_id": "emp017",
+    "project_id": "proj014",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Hannah ist Product Manager"
+  },
+  {
+    "employee_id": "emp010",
+    "project_id": "proj001",
+    "type": "excluded",
+    "comment": "Felix hat nicht genug ML-Erfahrung für dieses komplexe Projekt"
+  },
+  {
+    "employee_id": "emp011",
+    "project_id": "proj002",
+    "type": "excluded",
+    "comment": "Emma hat keine Cloud-Erfahrung"
+  },
+  {
+    "employee_id": "emp016",
+    "project_id": "proj004",
+    "type": "preferred",
+    "weight": 1.8,
+    "comment": "David entwickelt bereits mobile Apps"
+  },
+  {
+    "employee_id": "emp015",
+    "project_id": "proj012",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Lena ist QA-Spezialistin"
+  },
+  {
+    "employee_id": "emp013",
+    "project_id": "proj003",
+    "type": "preferred",
+    "weight": 1.5,
+    "comment": "Sophie kann beim UX-Design helfen"
+  },
+  {
+    "employee_id": "emp007",
+    "project_id": "proj007",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Nina ist Data Analyst"
+  },
+  {
+    "employee_id": "emp014",
+    "project_id": "proj015",
+    "type": "preferred",
+    "weight": 1.8,
+    "comment": "Jonas hat Go-Erfahrung"
+  }
+]

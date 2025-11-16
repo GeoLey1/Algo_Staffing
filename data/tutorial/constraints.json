@@ -1,0 +1,8 @@
+[
+  {
+    "employee_id": "emp01",
+    "project_id": "p01",
+    "type": "preferred",
+    "weight": 2.0
+  }
+]

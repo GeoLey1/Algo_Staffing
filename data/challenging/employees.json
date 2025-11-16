@@ -1,0 +1,70 @@
+[
+  {
+    "id": "emp01",
+    "name": "Maria Garcia",
+    "skills": ["Python", "Data Science"],
+    "seniority": "senior",
+    "availability": 0.4,
+    "hourly_cost": 95,
+    "comment": "Nur 40% verfügbar - Teilzeit wegen Elternzeit"
+  },
+  {
+    "id": "emp02",
+    "name": "Jan Kowalski",
+    "skills": ["Java", "Legacy Systems"],
+    "seniority": "principal",
+    "availability": 0.3,
+    "hourly_cost": 140,
+    "comment": "Nur 30% verfügbar - Berater-Rolle"
+  },
+  {
+    "id": "emp03",
+    "name": "Lisa Chen",
+    "skills": ["JavaScript", "React", "TypeScript"],
+    "seniority": "intermediate",
+    "availability": 0.6,
+    "hourly_cost": 70
+  },
+  {
+    "id": "emp04",
+    "name": "Ahmed Hassan",
+    "skills": ["Python", "Machine Learning"],
+    "seniority": "junior",
+    "availability": 1.0,
+    "hourly_cost": 55,
+    "comment": "Voll verfügbar aber Junior-Level"
+  },
+  {
+    "id": "emp05",
+    "name": "Nina Petrov",
+    "skills": ["DevOps", "Docker"],
+    "seniority": "intermediate",
+    "availability": 0.5,
+    "hourly_cost": 72
+  },
+  {
+    "id": "emp06",
+    "name": "Carlos Rodriguez",
+    "skills": ["React", "UI/UX", "CSS"],
+    "seniority": "senior",
+    "availability": 0.5,
+    "hourly_cost": 88
+  },
+  {
+    "id": "emp07",
+    "name": "Yuki Tanaka",
+    "skills": ["Go", "Rust", "Systems Programming"],
+    "seniority": "senior",
+    "availability": 0.8,
+    "hourly_cost": 105,
+    "comment": "Spezialisiert auf Low-Level-Programming"
+  },
+  {
+    "id": "emp08",
+    "name": "Sophie Dubois",
+    "skills": ["Product Management", "Agile"],
+    "seniority": "lead",
+    "availability": 1.0,
+    "hourly_cost": 110
+  }
+]

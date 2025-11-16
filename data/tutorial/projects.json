@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p01",
+    "name": "Website Backend",
+    "required_skills": ["Python", "Django"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "priority": 10
+  },
+  {
+    "id": "p02",
+    "name": "Datenanalyse",
+    "required_skills": ["Python", "Data Science"],
+    "min_seniority": "junior",
+    "required_capacity": 0.8,
+    "priority": 7
+  },
+  {
+    "id": "p03",
+    "name": "Frontend App",
+    "required_skills": ["JavaScript", "React"],
+    "min_seniority": "junior",
+    "required_capacity": 0.5,
+    "priority": 5
+  }
+]

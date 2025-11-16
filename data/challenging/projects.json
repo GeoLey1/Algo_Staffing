@@ -1,0 +1,83 @@
+[
+  {
+    "id": "proj01",
+    "name": "Kritische ML-Pipeline",
+    "required_skills": ["Python", "Machine Learning", "Data Science"],
+    "min_seniority": "senior",
+    "required_capacity": 1.5,
+    "max_team_size": 2,
+    "priority": 10,
+    "comment": "Benötigt Senior-Level aber nur Juniors mit ML-Skills verfügbar"
+  },
+  {
+    "id": "proj02",
+    "name": "Legacy Java Migration",
+    "required_skills": ["Java", "Legacy Systems"],
+    "min_seniority": "senior",
+    "required_capacity": 1.0,
+    "priority": 9,
+    "comment": "Nur ein Experte verfügbar (30% Teilzeit)"
+  },
+  {
+    "id": "proj03",
+    "name": "Frontend Modernisierung",
+    "required_skills": ["React", "TypeScript"],
+    "min_seniority": "intermediate",
+    "required_capacity": 2.0,
+    "max_team_size": 3,
+    "priority": 8,
+    "comment": "Benötigt 2 FTE aber nur Teilzeit-Kräfte verfügbar"
+  },
+  {
+    "id": "proj04",
+    "name": "DevOps Infrastruktur",
+    "required_skills": ["DevOps", "Docker", "Kubernetes"],
+    "min_seniority": "senior",
+    "required_capacity": 1.0,
+    "priority": 10,
+    "comment": "Benötigt Kubernetes aber niemand hat diesen Skill"
+  },
+  {
+    "id": "proj05",
+    "name": "Systems Programming Projekt",
+    "required_skills": ["Rust", "Systems Programming"],
+    "min_seniority": "senior",
+    "required_capacity": 1.0,
+    "priority": 7,
+    "comment": "Sehr spezialisiert - nur eine Person hat diese Skills"
+  },
+  {
+    "id": "proj06",
+    "name": "Produkt-Strategie",
+    "required_skills": ["Product Management"],
+    "min_seniority": "lead",
+    "required_capacity": 0.5,
+    "priority": 6
+  },
+  {
+    "id": "proj07",
+    "name": "Mobile App",
+    "required_skills": ["React Native", "Mobile Development"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "priority": 5,
+    "comment": "Niemand hat Mobile-Skills - schwierig zu besetzen"
+  },
+  {
+    "id": "proj08",
+    "name": "UI Design System",
+    "required_skills": ["UI/UX", "CSS", "React"],
+    "min_seniority": "senior",
+    "required_capacity": 1.0,
+    "priority": 7
+  },
+  {
+    "id": "proj09",
+    "name": "Quick Data Analysis",
+    "required_skills": ["Python", "Data Science"],
+    "min_seniority": "junior",
+    "required_capacity": 0.3,
+    "priority": 3,
+    "comment": "Kleines Projekt - sollte gut zu besetzen sein"
+  }
+]

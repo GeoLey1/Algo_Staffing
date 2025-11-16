@@ -1,0 +1,127 @@
+[
+  {
+    "id": "proj001",
+    "name": "KI-gestützte Produktempfehlung",
+    "required_skills": ["Machine Learning", "Python", "Deep Learning"],
+    "min_seniority": "senior",
+    "required_capacity": 2.0,
+    "max_team_size": 3,
+    "priority": 10
+  },
+  {
+    "id": "proj002",
+    "name": "Cloud-Native Microservices Migration",
+    "required_skills": ["Java", "Microservices", "Kubernetes", "AWS"],
+    "min_seniority": "senior",
+    "required_capacity": 2.5,
+    "max_team_size": 4,
+    "priority": 10
+  },
+  {
+    "id": "proj003",
+    "name": "E-Commerce Frontend Redesign",
+    "required_skills": ["React", "TypeScript", "UI/UX"],
+    "min_seniority": "intermediate",
+    "required_capacity": 2.0,
+    "max_team_size": 3,
+    "priority": 9
+  },
+  {
+    "id": "proj004",
+    "name": "Mobile App Development",
+    "required_skills": ["React Native", "Mobile Development"],
+    "min_seniority": "junior",
+    "required_capacity": 1.0,
+    "max_team_size": 2,
+    "priority": 7
+  },
+  {
+    "id": "proj005",
+    "name": "Data Warehouse Modernisierung",
+    "required_skills": ["Data Engineering", "Python", "SQL"],
+    "min_seniority": "senior",
+    "required_capacity": 1.5,
+    "priority": 8
+  },
+  {
+    "id": "proj006",
+    "name": "DevOps Pipeline Automation",
+    "required_skills": ["DevOps", "CI/CD", "Docker", "Kubernetes"],
+    "min_seniority": "senior",
+    "required_capacity": 1.0,
+    "priority": 9
+  },
+  {
+    "id": "proj007",
+    "name": "Customer Analytics Dashboard",
+    "required_skills": ["Data Analysis", "SQL", "Power BI"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "max_team_size": 2,
+    "priority": 6
+  },
+  {
+    "id": "proj008",
+    "name": "REST API Backend",
+    "required_skills": ["Python", "FastAPI", "PostgreSQL"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.5,
+    "priority": 8
+  },
+  {
+    "id": "proj009",
+    "name": "Security Audit & Penetration Testing",
+    "required_skills": ["Security", "Penetration Testing"],
+    "min_seniority": "senior",
+    "required_capacity": 0.8,
+    "priority": 10
+  },
+  {
+    "id": "proj010",
+    "name": "Internal Admin Portal",
+    "required_skills": ["Vue.js", "Node.js"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "priority": 5
+  },
+  {
+    "id": "proj011",
+    "name": "Legacy .NET System Maintenance",
+    "required_skills": ["C#", ".NET Core", "SQL Server"],
+    "min_seniority": "junior",
+    "required_capacity": 0.5,
+    "priority": 4
+  },
+  {
+    "id": "proj012",
+    "name": "QA Automation Framework",
+    "required_skills": ["QA", "Testing", "Python"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "priority": 7
+  },
+  {
+    "id": "proj013",
+    "name": "Blockchain Payment Integration",
+    "required_skills": ["Blockchain", "Web3", "JavaScript"],
+    "min_seniority": "intermediate",
+    "required_capacity": 0.8,
+    "priority": 6
+  },
+  {
+    "id": "proj014",
+    "name": "Product Discovery & User Research",
+    "required_skills": ["Product Management", "User Research"],
+    "min_seniority": "senior",
+    "required_capacity": 0.5,
+    "priority": 5
+  },
+  {
+    "id": "proj015",
+    "name": "Microservices mit Go",
+    "required_skills": ["Go", "Microservices", "Docker"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "priority": 7
+  }
+]

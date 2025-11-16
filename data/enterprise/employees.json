@@ -1,0 +1,162 @@
+[
+  {
+    "id": "emp001",
+    "name": "Dr. Anna Schmidt",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "Data Science"],
+    "seniority": "principal",
+    "availability": 1.0,
+    "hourly_cost": 150
+  },
+  {
+    "id": "emp002",
+    "name": "Michael Bauer",
+    "skills": ["Java", "Spring Boot", "Microservices", "Kubernetes", "AWS"],
+    "seniority": "lead",
+    "availability": 1.0,
+    "hourly_cost": 120
+  },
+  {
+    "id": "emp003",
+    "name": "Sarah Johnson",
+    "skills": ["React", "TypeScript", "Next.js", "UI/UX", "Figma"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 95
+  },
+  {
+    "id": "emp004",
+    "name": "Thomas Müller",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+    "seniority": "senior",
+    "availability": 0.8,
+    "hourly_cost": 90
+  },
+  {
+    "id": "emp005",
+    "name": "Laura Weber",
+    "skills": ["JavaScript", "Vue.js", "Node.js", "MongoDB"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 70
+  },
+  {
+    "id": "emp006",
+    "name": "Kevin Fischer",
+    "skills": ["DevOps", "CI/CD", "Jenkins", "Docker", "Kubernetes", "Terraform"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 100
+  },
+  {
+    "id": "emp007",
+    "name": "Nina Hoffmann",
+    "skills": ["Data Analysis", "SQL", "Power BI", "Excel", "Python"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 65
+  },
+  {
+    "id": "emp008",
+    "name": "Lukas Wagner",
+    "skills": ["C#", ".NET Core", "Azure", "SQL Server"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 92
+  },
+  {
+    "id": "emp009",
+    "name": "Julia Braun",
+    "skills": ["React", "TypeScript", "CSS", "HTML"],
+    "seniority": "intermediate",
+    "availability": 0.6,
+    "hourly_cost": 68
+  },
+  {
+    "id": "emp010",
+    "name": "Felix Krause",
+    "skills": ["Python", "Django", "REST APIs", "PostgreSQL"],
+    "seniority": "junior",
+    "availability": 1.0,
+    "hourly_cost": 55
+  },
+  {
+    "id": "emp011",
+    "name": "Emma Schulz",
+    "skills": ["Java", "Spring Boot", "MySQL"],
+    "seniority": "junior",
+    "availability": 1.0,
+    "hourly_cost": 52
+  },
+  {
+    "id": "emp012",
+    "name": "Maximilian Koch",
+    "skills": ["Machine Learning", "Python", "scikit-learn", "Data Science"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 75
+  },
+  {
+    "id": "emp013",
+    "name": "Sophie Becker",
+    "skills": ["UI/UX", "Figma", "Adobe XD", "User Research"],
+    "seniority": "senior",
+    "availability": 0.5,
+    "hourly_cost": 88
+  },
+  {
+    "id": "emp014",
+    "name": "Jonas Richter",
+    "skills": ["Go", "gRPC", "Microservices", "Docker"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 72
+  },
+  {
+    "id": "emp015",
+    "name": "Lena Zimmermann",
+    "skills": ["QA", "Testing", "Selenium", "Python"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 62
+  },
+  {
+    "id": "emp016",
+    "name": "David Schröder",
+    "skills": ["React Native", "JavaScript", "Mobile Development"],
+    "seniority": "junior",
+    "availability": 0.75,
+    "hourly_cost": 50
+  },
+  {
+    "id": "emp017",
+    "name": "Hannah Meyer",
+    "skills": ["Product Management", "Agile", "Scrum"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 105
+  },
+  {
+    "id": "emp018",
+    "name": "Paul Schneider",
+    "skills": ["Security", "Penetration Testing", "Python", "Network Security"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 110
+  },
+  {
+    "id": "emp019",
+    "name": "Marie Lange",
+    "skills": ["Data Engineering", "Spark", "Kafka", "Python", "Scala"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 98
+  },
+  {
+    "id": "emp020",
+    "name": "Tim Wolff",
+    "skills": ["Blockchain", "Solidity", "Web3", "JavaScript"],
+    "seniority": "intermediate",
+    "availability": 0.5,
+    "hourly_cost": 80
+  }
+]
