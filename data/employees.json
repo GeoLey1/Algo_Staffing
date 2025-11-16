@@ -1,0 +1,82 @@
+[
+  {
+    "id": "emp001",
+    "name": "Anna Müller",
+    "skills": ["Python", "Machine Learning", "Data Analysis"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 85
+  },
+  {
+    "id": "emp002",
+    "name": "Ben Schmidt",
+    "skills": ["JavaScript", "React", "TypeScript", "Node.js"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 65
+  },
+  {
+    "id": "emp003",
+    "name": "Clara Weber",
+    "skills": ["Python", "Django", "PostgreSQL"],
+    "seniority": "junior",
+    "availability": 0.5,
+    "hourly_cost": 45
+  },
+  {
+    "id": "emp004",
+    "name": "David Fischer",
+    "skills": ["Java", "Spring Boot", "Microservices", "Docker"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 90
+  },
+  {
+    "id": "emp005",
+    "name": "Emma Wagner",
+    "skills": ["React", "TypeScript", "UI/UX", "CSS"],
+    "seniority": "intermediate",
+    "availability": 0.8,
+    "hourly_cost": 60
+  },
+  {
+    "id": "emp006",
+    "name": "Felix Becker",
+    "skills": ["Python", "FastAPI", "Docker", "Kubernetes"],
+    "seniority": "lead",
+    "availability": 1.0,
+    "hourly_cost": 110
+  },
+  {
+    "id": "emp007",
+    "name": "Greta Hoffmann",
+    "skills": ["Data Analysis", "SQL", "Power BI", "Python"],
+    "seniority": "intermediate",
+    "availability": 1.0,
+    "hourly_cost": 70
+  },
+  {
+    "id": "emp008",
+    "name": "Hannah Schulz",
+    "skills": ["Java", "Spring Boot", "REST APIs"],
+    "seniority": "junior",
+    "availability": 1.0,
+    "hourly_cost": 50
+  },
+  {
+    "id": "emp009",
+    "name": "Ingo Braun",
+    "skills": ["DevOps", "CI/CD", "Docker", "Kubernetes", "AWS"],
+    "seniority": "senior",
+    "availability": 1.0,
+    "hourly_cost": 95
+  },
+  {
+    "id": "emp010",
+    "name": "Julia Krause",
+    "skills": ["JavaScript", "Vue.js", "Node.js"],
+    "seniority": "junior",
+    "availability": 0.6,
+    "hourly_cost": 42
+  }
+]

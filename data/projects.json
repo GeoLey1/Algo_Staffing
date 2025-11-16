@@ -1,0 +1,61 @@
+[
+  {
+    "id": "proj001",
+    "name": "KI-Chatbot Entwicklung",
+    "required_skills": ["Python", "Machine Learning"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.5,
+    "max_team_size": 3,
+    "priority": 9
+  },
+  {
+    "id": "proj002",
+    "name": "E-Commerce Frontend",
+    "required_skills": ["React", "TypeScript"],
+    "min_seniority": "intermediate",
+    "required_capacity": 1.0,
+    "max_team_size": 2,
+    "priority": 8
+  },
+  {
+    "id": "proj003",
+    "name": "Backend Microservices",
+    "required_skills": ["Java", "Spring Boot", "Microservices"],
+    "min_seniority": "senior",
+    "required_capacity": 1.0,
+    "priority": 10
+  },
+  {
+    "id": "proj004",
+    "name": "Datenanalyse Dashboard",
+    "required_skills": ["Python", "Data Analysis", "SQL"],
+    "min_seniority": "junior",
+    "required_capacity": 1.0,
+    "max_team_size": 2,
+    "priority": 6
+  },
+  {
+    "id": "proj005",
+    "name": "CI/CD Pipeline Modernisierung",
+    "required_skills": ["DevOps", "Docker", "Kubernetes"],
+    "min_seniority": "senior",
+    "required_capacity": 0.8,
+    "priority": 7
+  },
+  {
+    "id": "proj006",
+    "name": "Mobile App API",
+    "required_skills": ["Node.js", "REST APIs"],
+    "min_seniority": "junior",
+    "required_capacity": 0.7,
+    "priority": 5
+  },
+  {
+    "id": "proj007",
+    "name": "Legacy System Migration",
+    "required_skills": ["Python", "Django", "PostgreSQL"],
+    "min_seniority": "intermediate",
+    "required_capacity": 0.5,
+    "priority": 4
+  }
+]

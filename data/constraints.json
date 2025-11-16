@@ -1,0 +1,43 @@
+[
+  {
+    "employee_id": "emp001",
+    "project_id": "proj001",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Anna hat bereits Erfahrung mit ähnlichen KI-Projekten"
+  },
+  {
+    "employee_id": "emp006",
+    "project_id": "proj003",
+    "type": "preferred",
+    "weight": 1.5,
+    "comment": "Felix ist Experte für Microservices-Architekturen"
+  },
+  {
+    "employee_id": "emp002",
+    "project_id": "proj005",
+    "type": "excluded",
+    "comment": "Ben hat keinen DevOps-Background"
+  },
+  {
+    "employee_id": "emp003",
+    "project_id": "proj007",
+    "type": "preferred",
+    "weight": 1.8,
+    "comment": "Clara kennt das Legacy-System bereits"
+  },
+  {
+    "employee_id": "emp009",
+    "project_id": "proj005",
+    "type": "preferred",
+    "weight": 2.0,
+    "comment": "Ingo ist unser DevOps-Lead"
+  },
+  {
+    "employee_id": "emp005",
+    "project_id": "proj002",
+    "type": "preferred",
+    "weight": 1.5,
+    "comment": "Emma hat starke UI/UX Skills für E-Commerce"
+  }
+]
